@@ -2,6 +2,9 @@
 
 ## Programming Languages
 
+### Python
+https://devhints.io/python
+
 ### PHP
 https://devhints.io/wip/php
 
