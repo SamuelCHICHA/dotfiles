@@ -37,14 +37,14 @@
         "defaults": 
         {
             "backgroundImage": "C:\\Users\\samue\\Pictures\\Saved Pictures\\man_planet_stars_vc.png",
-            "backgroundImageOpacity": 0.6,
+            "backgroundImageOpacity": 0.1,
             "colorScheme": "One Half Dark",
             "cursorShape": "underscore",
             "font": 
             {
                 "face": "Consolas"
             },
-            "opacity": 0,
+            "opacity": 100,
             "useAcrylic": true
         },
         "list": 
