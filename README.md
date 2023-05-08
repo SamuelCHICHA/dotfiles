@@ -1,3 +1,3 @@
-# config_files
+# Fichiers de configuration
 
 ## Windows Terminal
