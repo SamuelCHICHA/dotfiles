@@ -38,6 +38,7 @@
         {
             "backgroundImage": "C:\\Users\\samue\\Pictures\\Saved Pictures\\man_planet_stars_vc.png",
             "backgroundImageOpacity": 0.1,
+            "bellStyle": "none",
             "colorScheme": "One Half Dark",
             "cursorShape": "underscore",
             "font": 
@@ -68,6 +69,7 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
+                "bellStyle": "none",
                 "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
                 "hidden": false,
                 "name": "Ubuntu",
